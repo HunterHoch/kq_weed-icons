@@ -1,4 +1,5 @@
 # Hunter's Icon Pack - KuzQuality Weed
+<img width="1920" height="500" alt="kq_weed" src="https://github.com/user-attachments/assets/06c82da0-f0b2-4072-bb84-5ff0f3e28f2f" />
 
 Icons for KuzQuality Weed (and compatible FiveM/QBCore servers). Each icon is designed for small UI usage: bold outlines, saturated color, sharp shading, and minimal detail.
 
